@@ -37,7 +37,7 @@ const Navbar = () => {
                     <p>CONTACT</p>
                     <hr className="w-2/4 border-none h-[1.5px] bg-gray-700 hidden" />
                 </NavLink>
-                <a href="http://localhost:5175" target="_blank" rel="noopener noreferrer" className="flex flex-col items-center  gap-1 border border-gray-700 rounded-full px-4  hover:bg-gray-100 transition-all">
+                <a href="https://e-commerce-admin-fawn-two.vercel.app" target="_blank" rel="noopener noreferrer" className="flex flex-col items-center  gap-1 border border-gray-700 rounded-full px-4  hover:bg-gray-100 transition-all">
                     <p>ADMIN</p>
                 </a>
 
